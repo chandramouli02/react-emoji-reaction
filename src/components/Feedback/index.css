@@ -1,0 +1,42 @@
+.main-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-image: linear-gradient(to right, #ffeeee, #ffc0bb);
+  height: 100vh;
+}
+
+.elements-container {
+  background-color: white;
+  padding: 25px;
+  margin: 10%;
+  text-align: center;
+}
+
+.heading {
+  font-size: 20pxp;
+  font-weight: 600;
+  font-family: roboto;
+}
+
+.emojis-container {
+  display: flex;
+  padding: 30px;
+  justify-content: space-around;
+}
+
+.love-img {
+  width: 100px;
+  height: auto;
+  padding: 10px;
+}
+
+.thankyou-heading {
+  font-size: 25px;
+  font-weight: 600;
+}
+
+.thankyou-msg {
+  font-size: 13px;
+  font-weight: 400;
+}
